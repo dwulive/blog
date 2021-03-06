@@ -1,20 +1,20 @@
 ---
-title: Choosing a tech stack for my personal dev blog in 2020
-published: true
+title: What are the best resources to use before attending a coding bootcamp?
+ed: true
 datePublished: 1590463136775
-author: Jeanmarie Jackman
-itter: colinhacks
-authorPhoto: /img/profile.jpg
+author: Jean marie Jackman
+twitter: sweetjuanita512
+to: /img/profile.jpeg
 tags:
   - bootcamp
   - blog
   - programming
 thumbnailPhoto: /img/pancakes_thumb.jpeg
 bannerPhoto: /img/pancakes.jpeg
-canonicalUrl: https://colinhacks.com/essays/devii
+canonicalUrl: https://www.tlgger.com/resources-for-coding-bootcamp
 ---
 
-# **What are the best resources to use before attending a coding bootcamp?**
+# ****
 
 [
 
