@@ -65,7 +65,7 @@ p {
 }
 
 blockquote {
-  border-left: 5px solid turquoise;
+  border-left: 5px solid rgb(120, 64, 224);
   padding: 15px 0px 15px 15px;
   background-color: #f4f4f4;
   border-radius: 4px;
@@ -94,7 +94,7 @@ ol p {
 }
 
 a {
-  color: turquoise;
+  color: purple;
 }
 
 a:hover {
@@ -204,7 +204,7 @@ hr {
 }
 
 .fork-button {
-  background-color: turquoise;
+  background-color: purple;
   border-radius: 10px;
   border: none;
   color: white;
@@ -213,7 +213,7 @@ hr {
   cursor: pointer;
 }
 .fork-button:hover {
-  background-color: mediumturquoise;
+  background-color: mediumpurple;
 }
 
 .author-container {
@@ -296,10 +296,10 @@ hr {
 
 .follow-button {
   display: inline-block;
-  border: 1px solid turquoise;
+  border: 1px solid purple;
   border-radius: 4px;
   padding: 2px 10px;
-  color: turquoise;
+  color: purple;
   font-size: 10pt;
   margin-bottom: 2px;
   margin-left: 4px;
