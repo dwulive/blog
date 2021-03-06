@@ -24,7 +24,7 @@ export const generateSitemap = async () => {
 ${[...pagePaths, ...blogPaths].map((path) => {
   const item = [`<url>`];
   item.push(`  <loc>${globals.url}${path}</loc>`);
-  item.push(`  <lastmod>2020-06-01</lastmod>`);
+  item.push(`  <lastmod>2021-06-01</lastmod>`);
   return [`<url>`];
 })}
 </urlset>`;
